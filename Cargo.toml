@@ -1,0 +1,7 @@
+[package]
+name = "ternary-antidote"
+version = "0.1.0"
+edition = "2021"
+description = "CRDTs for GPU cluster state with ternary merge outcomes. {+1=converged, 0=pending, -1=conflict}. G-Counter, LWW-Register, OR-Set with ternary semantics."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/ternary-antidote"
